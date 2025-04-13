@@ -1,0 +1,25 @@
+# Module 01: Introduction to Computer Vision
+
+## Summary
+This module introduced the basics of computer vision, including its history, evolution, and foundational concepts. We explored how computer vision developed from early imaging technologies to modern applications like autonomous vehicles, facial recognition, and medical imaging.
+
+Key topics included:
+- Image Acquisition & Processing
+- Feature Extraction
+- Object Detection & Scene Understanding
+- 3D Reconstruction
+- Enabling Technologies: Sensors, Cameras, Machine Learning, Big Data
+
+We also discussed real-world use cases in agriculture, space exploration, retail, and healthcare.
+
+## Assignment
+- **A01: History of Computer Vision**
+- Format: PowerPoint presentation
+- Description: Created a timeline and explored major developments in CV from the 19th century to the present.
+
+## Reflection
+This first module gave me a strong foundation in how computer vision works and how far it has come. It made me realize how CV powers everyday technologies like self-driving cars, security cameras, and facial ID. The historical context helped me appreciate the field more and understand the role of image processing, sensors, and AI in today's world.
+
+## Resources & Media
+- "11 Nerdy Facts About Cameras in Space"
+- YouTube: [What is Computer Vision?](https://www.youtube.com/watch?v=8rrsGVkcKT4)
